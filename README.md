@@ -1,5 +1,5 @@
 
-<img width="2048" height="292" alt="gradient -- payoff -- github" src="[https://github.com/user-attachments/assets/0f0c22af-5768-4709-8aac-c6e8abc2db7d](https://github.com/radixia/.github/blob/main/profile/rdx_cover%20gh.jpg)" />
+<img width="2048" height="292" alt="gradient -- payoff -- github" src="[[https://github.com/user-attachments/assets/0f0c22af-5768-4709-8aac-c6e8abc2db7d](https://github.com/radixia/.github/blob/main/profile/rdx_cover%20gh.jpg)](https://raw.githubusercontent.com/radixia/.github/refs/heads/main/profile/rdx_cover%20gh.jpg)" />
 
 # 🌱 Radixia AI — Where bold ideas take root and thrive
 
